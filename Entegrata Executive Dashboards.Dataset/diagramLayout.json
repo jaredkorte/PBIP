@@ -1,0 +1,754 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 922.92352396512479,
+        "y": 1462.8941769393318
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 843.39767372253641,
+            "y": 1663.2935032362116
+          },
+          "nodeIndex": "Dim Date",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 2407.0669461296875,
+            "y": 961.22685070012858
+          },
+          "nodeIndex": "Dim Employee",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 35
+        },
+        {
+          "location": {
+            "x": 744.35746745850611,
+            "y": 350.765550748981
+          },
+          "nodeIndex": "Dim Matter",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 780.89662760367037,
+            "y": 785.8095026165297
+          },
+          "nodeIndex": "Dim Client",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 2237.2146967688859,
+            "y": 727.75992633776673
+          },
+          "nodeIndex": "Dim Role Type",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 2972.5347160132806,
+            "y": 1218.86859009599
+          },
+          "nodeIndex": "Timeframe Selection",
+          "nodeLineageTag": "d392a4fe-c858-4f8c-92e7-c592ef4c35e0",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 103.06932664906117,
+            "y": 1542.2759342795282
+          },
+          "nodeIndex": "Dim Invoice",
+          "nodeLineageTag": "fe92d340-57bf-4198-8b4c-572e91682a70",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 3256.5347160132806,
+            "y": 1132.86859009599
+          },
+          "nodeIndex": "_Measures",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 3540.5347160132806,
+            "y": 1230.86859009599
+          },
+          "nodeIndex": "Number Type",
+          "nodeLineageTag": "bd1780b5-728e-4d92-bc8f-2fc8fd8adfad",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 4108.5347160132806,
+            "y": 1194.86859009599
+          },
+          "nodeIndex": "Trend Arrows",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 1211.1051688315476,
+            "y": 1227.8797011698766
+          },
+          "nodeIndex": "Dim Office",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 628.84423051034787,
+            "y": 1192.9203427575158
+          },
+          "nodeIndex": "Dim Practice Group",
+          "nodeLineageTag": "ae2acb54-42a2-499e-82b5-f3a587aed0c5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 973.05178961971319,
+            "y": -3.6834177471619114
+          },
+          "nodeIndex": "Dim Timesheet",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 2309.9259344083002,
+            "y": 1322.2866246977942
+          },
+          "nodeIndex": "Dim Proforma",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1482.964473993803,
+            "y": 867.52660322086786
+          },
+          "nodeIndex": "Fact Matter Snapshot",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 552.92320613969264,
+            "y": 1553.2362320080824
+          },
+          "nodeIndex": "Fact Invoice Transactions",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 1651.6462941452639,
+            "y": 1228.3101847318944
+          },
+          "nodeIndex": "Fact Proforma Transactions",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 682.24620800413163,
+            "y": -10
+          },
+          "nodeIndex": "Fact Timesheet",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1752.4716176321306,
+            "y": 583.75592361174517
+          },
+          "nodeIndex": "Bridge Matter Roles",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1815.0881966050003,
+            "y": 1947.0651608216824
+          },
+          "nodeIndex": "Dim Aging Buckets",
+          "nodeLineageTag": "62e5a238-5a5a-4f24-9a79-b4649a1ecfe7",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 25.800244904505007,
+            "y": 1092.5542948138354
+          },
+          "nodeIndex": "Dim Currency",
+          "nodeLineageTag": "94b44764-5149-4eab-b0f1-aee4a725a766",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 786.12553551689734
+          },
+          "nodeIndex": "Dim Firm Target",
+          "nodeLineageTag": "df5ffc05-6868-4377-9b99-6f38861c7fba",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 172.51836784018644,
+            "y": 551.77397482107267
+          },
+          "nodeIndex": "Dim Receipts",
+          "nodeLineageTag": "bbc55eb5-0042-478d-83b3-caf65efbdce4",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1478.5423689016968,
+            "y": 1588.5828633829522
+          },
+          "nodeIndex": "Fact AR Snapshot",
+          "nodeLineageTag": "b2584942-e076-4c4b-b596-233bf9d71db5",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 1944.354545894611,
+            "y": 943.77424865503326
+          },
+          "nodeIndex": "Fact Employment By Date",
+          "nodeLineageTag": "a8204097-298d-4052-a229-b1eb2d58e23a",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 312.62817626370918,
+            "y": 1182.8246395131102
+          },
+          "nodeIndex": "Fact Firm Target Snapshot",
+          "nodeLineageTag": "7256c177-f778-452c-ae22-d581dcbca144",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 490.05155054505849,
+            "y": 711.0796893329757
+          },
+          "nodeIndex": "Fact Receipt Transactions",
+          "nodeLineageTag": "6e81b382-3625-47ae-88b4-cadfbc341e1e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 920.36282632765733,
+            "y": 1146.1248204535198
+          },
+          "nodeIndex": "Fact WIP Snapshot",
+          "nodeLineageTag": "647e35db-5582-4054-94a0-5de768fee8ba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 4392.5347160132806,
+            "y": 1182.86859009599
+          },
+          "nodeIndex": "Reporting Preferences",
+          "nodeLineageTag": "f8fe3f03-3a35-44fd-98cf-b6bfc59d227a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 2698.5347160132806,
+            "y": 1127.8451084641729
+          },
+          "nodeIndex": "Fact Employee Photo",
+          "nodeLineageTag": "5c559c65-da74-4b25-b901-c8ed88acd32a",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 4666.5347160132806,
+            "y": 1146.8685900959902
+          },
+          "nodeIndex": "Fact Employee Snapshot",
+          "nodeLineageTag": "c61b019d-95a3-4117-9582-81287b79e010",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4940.5347160132806,
+            "y": 1230.8685900959902
+          },
+          "nodeIndex": "Leaderboard Selection",
+          "nodeLineageTag": "6e586526-1a6e-4aab-95fb-42a57ba9e635",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 140.74838990116436,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 681.47009702306912,
+            "y": 178.23664303771568
+          },
+          "nodeIndex": "Bridge Matter Roles",
+          "nodeLineageTag": "3167f8e4-5f37-4b33-9dbe-319264565e59",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 524.88415090856506,
+            "y": 633.046090564638
+          },
+          "nodeIndex": "Dim Client",
+          "nodeLineageTag": "9154b3ae-f780-474b-8552-88306441cef5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 397.24783972215135,
+            "y": 3.6878899572882347
+          },
+          "nodeIndex": "Dim Matter",
+          "nodeLineageTag": "db85d621-b1b0-4a2c-8515-7daedf658c60",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 925.29592208009115,
+            "y": 452.4053699184995
+          },
+          "nodeIndex": "Dim Role Type",
+          "nodeLineageTag": "c98940b4-165b-4af3-bc4a-5b3c47764822",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 965.68896236226647,
+            "y": -10
+          },
+          "nodeIndex": "Dim Employee",
+          "nodeLineageTag": "bccefd35-5ddf-44c2-9845-52cd528fdeac",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 81.96264280280468,
+            "y": 3.6080253380844169
+          },
+          "nodeIndex": "Fact AR Snapshot",
+          "nodeLineageTag": "b2584942-e076-4c4b-b596-233bf9d71db5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 353.82607453907133
+          },
+          "nodeIndex": "Fact WIP Snapshot",
+          "nodeLineageTag": "647e35db-5582-4054-94a0-5de768fee8ba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        }
+      ],
+      "name": "Roles",
+      "zoomValue": 58.013366178054071,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 2,
+      "scrollPosition": {
+        "x": 0,
+        "y": 345
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 391.76403771450947,
+            "y": 343.39593415761118
+          },
+          "nodeIndex": "Fact Proforma Transactions",
+          "nodeLineageTag": "803f987d-e39e-4fcf-973c-b185de000ca9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 482.15530990338988,
+            "y": 707.15048937372148
+          },
+          "nodeIndex": "Dim Client",
+          "nodeLineageTag": "9154b3ae-f780-474b-8552-88306441cef5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10.000000000000057,
+            "y": 253.08765559152414
+          },
+          "nodeIndex": "Dim Practice Group",
+          "nodeLineageTag": "ae2acb54-42a2-499e-82b5-f3a587aed0c5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 104.7496195019537,
+            "y": 617.24438002651527
+          },
+          "nodeIndex": "Dim Office",
+          "nodeLineageTag": "74834461-2611-4cbe-a126-f069b0101c9a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 297.01931944953458,
+            "y": -10
+          },
+          "nodeIndex": "Dim Matter",
+          "nodeLineageTag": "db85d621-b1b0-4a2c-8515-7daedf658c60",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 769.174413928834,
+            "y": 417.81579057089192
+          },
+          "nodeIndex": "Dim Date",
+          "nodeLineageTag": "b482ea62-ade0-46f9-ae46-b379f548f2a6",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 678.78853307832844,
+            "y": 64.41591095405272
+          },
+          "nodeIndex": "Dim Proforma",
+          "nodeLineageTag": "721a1790-da96-4132-857f-0fb9aff7a8d2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Proforma",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 3,
+      "scrollPosition": {
+        "x": 45,
+        "y": 344
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 402.14821562490857,
+            "y": 343.75857640994184
+          },
+          "nodeIndex": "Fact Firm Target Snapshot",
+          "nodeLineageTag": "7256c177-f778-452c-ae22-d581dcbca144",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 36.379168864508756,
+            "y": 241.32516856737311
+          },
+          "nodeIndex": "Dim Firm Target",
+          "nodeLineageTag": "df5ffc05-6868-4377-9b99-6f38861c7fba",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 303.97537549987794,
+            "y": 697.51118573249164
+          },
+          "nodeIndex": "Dim Date",
+          "nodeLineageTag": "b482ea62-ade0-46f9-ae46-b379f548f2a6",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 541.33573829715192
+          },
+          "nodeIndex": "Dim Currency",
+          "nodeLineageTag": "94b44764-5149-4eab-b0f1-aee4a725a766",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 671.53133935679227,
+            "y": -9.9632200250161986
+          },
+          "nodeIndex": "Dim Client",
+          "nodeLineageTag": "9154b3ae-f780-474b-8552-88306441cef5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 869.00738190494667,
+            "y": 343.75743476104321
+          },
+          "nodeIndex": "Dim Matter",
+          "nodeLineageTag": "db85d621-b1b0-4a2c-8515-7daedf658c60",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 653.08879627430053,
+            "y": 697.4658921733236
+          },
+          "nodeIndex": "Dim Office",
+          "nodeLineageTag": "74834461-2611-4cbe-a126-f069b0101c9a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 323.39412071279389,
+            "y": -10
+          },
+          "nodeIndex": "Dim Practice Group",
+          "nodeLineageTag": "ae2acb54-42a2-499e-82b5-f3a587aed0c5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
